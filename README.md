@@ -1709,7 +1709,7 @@ if (import.meta.env.DEV) {
 
 ### Project Repository
 
-- **GitHub:** https://github.com/HDFC-Bank/kyc-capstone-project
+- **GitHub:** https://github.com/ashujha0203-ship-it/HDFC-capstone-project
 
 ### Deployment Access
 
